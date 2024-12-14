@@ -1,4 +1,17 @@
-## Hi there 👋
+## Welcome to My GitHub Portfolio 👋
+
+## About Me
+
+## What You'll Find Here 
+
+## Skills and Expertise
+
+## Featured Projects
+
+## Connect with Me
+
+## Let's Collaborate!
+
 
 <!--
 **Mariorj23/Mariorj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
