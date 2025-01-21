@@ -3,6 +3,9 @@
   <img src="https://github.com/user-attachments/assets/ed47a39e-9a80-4446-a093-4227001bd3c6" />
 </p>
 
+## My web portfolio
+https://mariorj11.github.io/
+
 ### About Me
 Hi! I'm a Computer Engineer passionate about technology, problem-solving, and continuous learning. I thrive on applying my skills to real-world projects and constantly expanding my expertise. 
 
