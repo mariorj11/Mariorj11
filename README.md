@@ -1,3 +1,6 @@
+
+![giphy](https://github.com/user-attachments/assets/89008717-cbfd-4d8b-a123-5440217c3758)
+
 <h1 align="center">Hi 👋, I'm Mario Rodríguez</h1>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mario-rodriguez-jurado-5b05a124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariorj11" height="30" width="40" /></a>
